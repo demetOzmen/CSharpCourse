@@ -1,11 +1,11 @@
 ﻿
 if (IsPrimaryNumber(6))
 {
-    Console.WriteLine("this is a prime number");
+    Console.WriteLine("This is a prime number.");
 }
 else
 {
-    Console.WriteLine("this is  not a prime number");
+    Console.WriteLine("This is  not a prime number.");
 
 }
 
